@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @piersb2
+- ℹ️ This is my company account for AudioMob; you can find my personal profile at @piersb
+- 📫 Reach me most places as @piersb, or occasionally as @juryof
