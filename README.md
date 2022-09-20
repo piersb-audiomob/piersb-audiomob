@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @piersb-audiomob
-- ℹ️ This is my company account for AudioMob; you can find my personal profile at @piersb
+- ℹ️ This is my company account for AudioMob; you can find my personal profile at http://github.com/piersb
 - 📫 Reach me most places as @piersb, or occasionally as @juryof
